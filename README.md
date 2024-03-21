@@ -1,10 +1,6 @@
 # 3D-Carbon: An Analytical Carbon Modeling Tool for 3D and 2.5D Integrated Circuits
 
-Private release of code and data associated with DAC 2024 submission "3D-Carbon: An Analytical Carbon Modeling Tool for 3D and 2.5D Integrated Circuits" for the purpose of review.
-
-3D-Carbon is an analytical carbon modeling tool to quantify the carbon emissions of 3D/2.5D ICs throughout their life cycle. 3D-Carbon faithfully considers a number of critical features absent in existing carbon modelings, including (1) multiple 2.5D/3D integration manufacturing processes, (2) factors like improved yield, area efficiency, use of heterogeneous technologies, and fewer metal layers could reduce the overall carbon footprint, and (3) the 2.5D/3D operational power scaling and application constraints like bandwidth. 3D-Carbon can be used to calculate the specific 2.5D/3D ICs carbon or serve as early design approximation.
-
-The full paper is under DAC 2024 review and is available online at https://arxiv.org/abs/2307.08060.
+This is the official implementation of 3D-Carbon: An Analytical Carbon Modeling Tool for 3D and 2.5D Integrated Circuits [DAC'24]
 
 ## Abstract
 
