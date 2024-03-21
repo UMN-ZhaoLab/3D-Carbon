@@ -1,0 +1,13 @@
+
+
+- Product: THOR
+  type: logic
+  manufacturing_power_grid: Taiwan
+  gatenumber: 17.0e+9
+  gatenumber: 77.0e+9
+  technode(nm): 5
+  area(mm2): 810
+  bandwidth-requirement: 6
+  memory(MB): 6
+  energy_efficiency: 12.5
+  throughput: 2788

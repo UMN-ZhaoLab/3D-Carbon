@@ -1,0 +1,13 @@
+- Product: RISC
+  method: Monolithic_3D
+  stacking: W2W
+  F2F/F2B: F2B
+  die_list:
+    - name: logic
+      technode(nm): 28
+      area(mm2): 0.77
+      layer: 6
+    - name: memory
+      technode(nm): 28
+      area(mm2): 0.77
+      layer: 4

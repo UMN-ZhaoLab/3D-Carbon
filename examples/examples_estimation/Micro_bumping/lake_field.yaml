@@ -1,0 +1,11 @@
+- Product: lakefield
+  method: Micro_bumping
+  F2F_F2B: F2F
+  die_list:
+    - name: die1
+      technode(nm): 14
+      gatenumber: 6.5e+8
+      IO_number: 1200
+    - name: die2
+      technode(nm): 10
+      gatenumber: 4.05e+9

@@ -1,0 +1,12 @@
+- Product: Navi31
+  method: InFO_chip_last
+  die_list:
+    - name: GCD
+      area(mm2): 304.5
+      technode(nm): 5
+      gatenumber: 4.5e+10
+    - name: MCD
+      area(mm2): 37.5
+      technode(nm): 7
+      gatenumber: 2.05e+9
+      number: 6

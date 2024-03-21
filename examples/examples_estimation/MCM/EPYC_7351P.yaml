@@ -1,0 +1,14 @@
+- Product: EPYC_7351
+  method: MCM
+  manufacturing_power_grid: Taiwan
+  packagearea(mm2): 4410
+  die_list:
+    - name: zen1
+      gatenumber: 19.2e+9
+      technode(nm): 14
+      area(mm2): 211
+      layer: 12
+      number: 4
+  design_exploration: 1
+  power(W): 155
+  delay(s): 0.42e-9

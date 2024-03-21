@@ -1,0 +1,21 @@
+- Product: 1K4M
+  method: Hybrid_bonding
+  stacking: W2W
+  test: 1
+  F2F_F2B: F2F
+  die_list:
+    - name: logic
+      technode(nm): 7
+      area(mm2): 0.9
+      layer: 6
+    - name: memory
+      technode(nm): 8
+      area(mm2): 0.8
+      layer: 4
+    - name: memory
+      technode(nm): 8
+      area(mm2): 0.8
+      layer: 4
+  design_exploration: 1
+  energy(mJ): 32
+  delay(s): 0.063

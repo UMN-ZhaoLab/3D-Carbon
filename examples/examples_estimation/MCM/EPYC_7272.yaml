@@ -1,0 +1,18 @@
+- Product: EPYC_7272
+  method: MCM
+  manufacturing_power_grid: Taiwan
+  packagearea(mm2): 4410
+  die_list:
+    - name: zen2
+      gatenumber: 3.9e+9
+      technode(nm): 7
+      area(mm2): 78
+      layer: 13
+      number: 2
+    - name: IO1
+      gatenumber: 2.09e+9
+      technode(nm): 14
+      area(mm2): 125
+  design_exploration: 1
+  power(W): 130
+  delay(s): 0.42e-9

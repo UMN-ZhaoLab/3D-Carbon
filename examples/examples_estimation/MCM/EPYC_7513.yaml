@@ -1,0 +1,18 @@
+- Product: EPYC_7513
+  method: MCM
+  manufacturing_power_grid: Taiwan
+  packagearea(mm2): 4410
+  die_list:
+    - name: zen3
+      gatenumber: 4.15e+9
+      technode(nm): 7
+      area(mm2): 84
+      layer: 13
+      number: 4
+    - name: IO2
+      gatenumber: 3.49e+9
+      technode(nm): 10
+      area(mm2): 125
+  design_exploration: 1
+  power(W): 180
+  delay(s): 0.42e-9

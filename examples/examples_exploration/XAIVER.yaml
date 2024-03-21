@@ -1,0 +1,8 @@
+- Product: XAIVER
+  manufacturing_power_grid: Taiwan
+  gatenumber: 21.0e+9
+  technode(nm): 10
+  energy_efficiency: 1
+  bandwidth-requirement: 1.8
+  memory(MB): 6
+  area(mm2): 400

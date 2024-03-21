@@ -1,0 +1,10 @@
+- Product: ORIN
+  type: logic
+  manufacturing_power_grid: Taiwan
+  gatenumber: 17.0e+9
+  technode(nm): 7
+  area(mm2): 800
+  bandwidth-requirement: 3.2
+  memory(MB): 6
+  energy_efficiency: 2.72
+  throughput: 2788

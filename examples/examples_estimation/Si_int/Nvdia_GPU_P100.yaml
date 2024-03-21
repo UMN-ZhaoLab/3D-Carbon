@@ -1,0 +1,12 @@
+- Product: Nvdia_GPU_P100
+  method: Si_int
+  die_list:
+    - name: GPU
+      technode(nm): 14
+      area(mm2): 610
+      gatenumber: 1.53e+9
+    - name: HBM
+      technode(nm): 28
+      area(mm2): 72
+      gatenumber: 1.0e+6
+      number: 4

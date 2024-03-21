@@ -1,0 +1,8 @@
+- Product: PX
+  manufacturing_power_grid: Taiwan
+  gatenumber: 15.3e+9
+  technode(nm): 14
+  area(mm2): 606
+  energy_efficiency: 1
+  bandwidth-requirement: 1.48
+  memory(MB): 4

@@ -1,0 +1,10 @@
+{
+  "CPU(desktop)": 0.45,
+  "CPU(mobile)": 0.24,
+  "CPU(server)": 0.44,
+  "GPU(desktop)": 0.47,
+  "GPU(mobile)": 0.4,
+  "GPU(server)": 0.33,
+  "Desktop SOC": 0.27,
+  "Mobile SOC": 0.19
+}
