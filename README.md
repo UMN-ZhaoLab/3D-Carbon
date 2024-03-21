@@ -382,5 +382,3 @@ Bandwidth is: 1e+01 TB/s, meet the bandwidth requirement.
 [1] Udit Gupta, Mariam Elgamal, Gage Hills, Gu-Yeon Wei, Hsien-Hsin S. Lee, David Brooks, and Carole-Jean Wu. 2022. ACT: designing sustainable computer systems with an architectural carbon modeling tool. In Proceedings of the 49th Annual International Symposium on Computer Architecture (ISCA '22). Association for Computing Machinery, New York, NY, USA, 784–799. https://doi.org/10.1145/3470496.3527408
 
 [2] A. Arunkumar et al., "MCM-GPU: Multi-chip-module GPUs for continued performance scalability," 2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA), Toronto, ON, Canada, 2017, pp. 320-332, doi: 10.1145/3079856.3080231.
-
-I have some research experience in Reinforcement Learning with Trajectory Preferences under the guidance of Prof. Huazheng Wang at OSU. (The work is planned to be submitted to ICML'24 and I am the first author).
